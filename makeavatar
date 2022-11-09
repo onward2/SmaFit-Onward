@@ -144,8 +144,9 @@ button {
       バーチャルの試着体験で、気になるファッションコーディネートを<b>いつでもどこでも楽しむ</b>ことができ、今までは実際に試着をすることでしか得られなかった<b>直観的な試着感</b>をウェブサイトで体験可能に</p>
     <h2>アバター作成はこちらから！</h2>
     <p>鏡より鮮明な自分をメタバース内に作成することが出来ます</p>
-    <button onclick="window.location.href='https://p3d.in/F30qD';">
-    アバター作成
+    <button onclick="makeavatar.html">
+    アバター作
+    成
     </button>
     <p> </p>
     <img src="avatar.jpg" style="width:100%">
@@ -159,21 +160,21 @@ button {
 	<input type="text" name="name"></p>
 	<p>メールアドレス：<br>
 	<input type="text" name="mail"></p>
-  <p>年齢：<br>
-  <input type="text" name="age"></p>
-  <p>身長：<br>
-  <input type="text" name="height"></p>
-  <p>体重：<br>
-  <input type="text" name="weight"></p>
-  <p>胸囲：<br>
-  <input type="text" name="chest"></p>
-  <p>腹囲：<br>
-  <input type="text" name="waist"></p>
-  <p>ヒップ：<br>
-  <input type="text" name="hip"></p>
-  <p>足の長さ：<br>
-  <input type="text" name="leg"></p>
-</form>
+  	<p>年齢：<br>
+  	<input type="text" name="age"></p>
+  	<p>身長：<br>
+  	<input type="text" name="height"></p>
+  	<p>体重：<br>
+  	<input type="text" name="weight"></p>
+  	<p>胸囲：<br>
+  	<input type="text" name="chest"></p>
+  	<p>腹囲：<br>
+  	<input type="text" name="waist"></p>
+  	<p>ヒップ：<br>
+  	<input type="text" name="hip"></p>
+  	<p>足の長さ：<br>
+  	<input type="text" name="leg"></p>
+	</form>
   </body>
     <!--<img src="shirt.jpg" style="width:25%">-->
     <a href="shirt.jpg" data-lightbox="group" <a class="example-image-link" href="http://lokeshdhakar.com/projects/lightbox2/images/image-1.jpg" data-lightbox="example-1"  title="<p class='title'>タンクトップ</p><p class='text'>トレンドのベストはニットでカジュアルに着こなすのがおしゃれ。<br>smafitはこちらから→<a class='example' href='#'>サンプル</a>"
